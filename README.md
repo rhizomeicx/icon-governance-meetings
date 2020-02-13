@@ -1,5 +1,7 @@
 # ICON Governance Meetings
 
+The purpose of ICON Governance Meetings is to foster discussion and action between ICON P-Reps. These meetings are separate from ICON Foundation's monthly meeting, and will focus on smaller topics within the ICON community.
+
 ## How to Submit a Meeting Topic
 
 To submit a meeting topic, please add it to the relevant thread on the ICON Community Forum. The link to the thread for each week's meeting will be shared in the ICON Governance Meeting Telegram channel.
