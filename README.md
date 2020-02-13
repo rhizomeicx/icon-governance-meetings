@@ -4,7 +4,7 @@ The purpose of ICON Governance Meetings is to foster discussion and action betwe
 
 ## How to Submit a Meeting Topic
 
-To submit a meeting topic, please add it to the relevant thread on the ICON Community Forum. The link to the thread for each week's meeting will be shared in the ICON Governance Meeting Telegram channel.
+To submit a meeting topic, please add it to the relevant thread on the [ICON Community Forum](https://forum.icon.community). The link to the thread for each week's meeting will be shared in the ICON Governance Meeting Telegram channel.
 
 Following discussion, the final list of five topics will be finalized and published two days before the meeting.
 
