@@ -10,4 +10,6 @@ To ensure we stay on track, please join the meeting 10-15 minutes ahead of time 
 
 ## How to Submit a Meeting Topic
 
-To submit a meeting topic, please submit a pull request.
+To submit a meeting topic, please add it to the relevant thread on the ICON Community Forum. The link to the thread for each week's meeting will be shared in the ICON Governance Meeting Telegram channel.
+
+Following discussion, the final list of five topics will be finalized and published.
