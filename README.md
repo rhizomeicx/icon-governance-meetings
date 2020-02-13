@@ -15,3 +15,6 @@ Meetings are open to all ICON P-Reps, and will be conducted via Zoom. The meetin
 Prior to each meeting, the link and password will be published to the ICON Governance Meeting Telegram channel. If you do not have access to this channel, please reach out to Catalyst (@catalystnode) or [RHIZOME](https://t.me/rhizomeicx).
 
 To ensure we stay on track, please join the meeting 10-15 minutes ahead of time to test your audio and video (optional). Lastly, only one member from each P-Rep team is allowed to attend the meeting.
+
+## Meetings
+- [February 15, 2020](https://github.com/rhizomeicx/icon-governance-meetings/blob/master/meetings/2020-02-16.md)
