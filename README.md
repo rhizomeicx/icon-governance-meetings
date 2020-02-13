@@ -1,6 +1,6 @@
 # ICON Governance Meetings
 
-The purpose of ICON Governance Meetings is to foster discussion and action between ICON P-Reps. These meetings are separate from ICON Foundation's monthly meeting, and will focus on smaller topics within the ICON community.
+The purpose of ICON Governance Meetings is to foster discussion and action between ICON P-Reps. These meetings are separate from ICON Foundation's monthly meeting, and will focus on smaller topics within the community.
 
 ## How to Submit a Meeting Topic
 
