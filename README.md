@@ -18,3 +18,4 @@ To ensure we stay on track, please join the meeting 10-15 minutes ahead of time 
 
 ## Meeting Notes
 - [February 15, 2020](https://github.com/rhizomeicx/icon-prep-community-meetings/blob/master/meetings/2020-02-16.md)
+- [February 22, 2020](https://github.com/rhizomeicx/icon-prep-community-meetings/blob/master/meetings/2020-02-22.md)
