@@ -17,4 +17,4 @@ Prior to each meeting, the link and password will be published to the ICON P-Rep
 To ensure we stay on track, please join the meeting 10-15 minutes ahead of time to test your audio and video (optional). Lastly, only one member from each P-Rep team is allowed to attend the meeting.
 
 ## Meeting Notes
-- [February 15, 2020](https://github.com/rhizomeicx/icon-governance-meetings/blob/master/meetings/2020-02-16.md)
+- [February 15, 2020](https://github.com/rhizomeicx/icon-prep-community-meetings/blob/master/meetings/2020-02-16.md)
